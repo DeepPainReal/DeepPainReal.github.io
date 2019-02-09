@@ -1,3 +1,7 @@
 body {
 color: #555;
 }
+#header {
+  background-color: #1abc9c;
+  height: 150px;
+}
